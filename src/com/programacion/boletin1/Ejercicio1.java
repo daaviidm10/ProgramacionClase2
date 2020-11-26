@@ -1,4 +1,4 @@
-package com.programacion.boletin1;
+
 
 /**
  * Datos
@@ -6,7 +6,7 @@ package com.programacion.boletin1;
  * @version 0.0.1
  *
  */
-public class Ejercicio1 {
+public class SegundoProyectoFormateo {
     /**
      * Detalles del método
      *
