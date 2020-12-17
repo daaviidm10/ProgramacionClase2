@@ -2,10 +2,6 @@ package boletín3_1;
 
 import java.util.Scanner;
 
-/**
- *
- * @author dam1b
- */
 public class Boletín3_1 {
 
     /**

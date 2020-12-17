@@ -1,4 +1,4 @@
-package com.programacion.Boletin5.part1;
+package com.programacion.Boletin5;
 
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ import java.util.Scanner;
  *
  * @author dmama
  */
-public class Boletin5 {
+public class part1 {
 
     /**
      * @param args the command line arguments

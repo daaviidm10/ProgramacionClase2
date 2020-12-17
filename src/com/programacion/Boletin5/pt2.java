@@ -1,11 +1,11 @@
-package boletin5;
+package com.programacion.Boletin5;
 
 /**
  *
  * @author dmama
  */
 //atributos
-public class Consumo {
+public class pt2 {
     public float kilometros;
     private float litroscombustible;
     public float velMedia;
