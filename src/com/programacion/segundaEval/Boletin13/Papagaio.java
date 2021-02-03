@@ -16,7 +16,7 @@ public class Papagaio extends Aves implements IPodeVoar{
     }
 
     public void amosar(){
-        System.out.println("O papagaio pode camiñar porque e un mamifero");
+        System.out.println("O papagaio pode camiñar porque é mamifero");
     }
 
 

@@ -16,7 +16,7 @@ public class Morcego extends Mamifero implements IPodeVoar {
     }
 
     public void amosar(){
-        System.out.println("O morcego pode camiñar porque e un mamifero");
+        System.out.println("O morcego pode camiñar porque é mamifero");
     }
 
 }
