@@ -73,7 +73,9 @@ public class MetodosMatriz {
         }
     }
     public void crearListaNomes(){
-        for (int i=0;i<listaNomes.length)
+        for (int i=0;i<listaNomes.length;i++){
+
+        }
     }
 
 }
